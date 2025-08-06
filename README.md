@@ -1,7 +1,8 @@
-# 💻 Sobre mí  
-¡Hola! Soy Antonio, futuro ingeniero industrial especializado en Data Analytics 📊. Me apasiona crear soluciones de ingeniería de datos 💡, y estoy ampliando mis conocimientos en Python 🐍 y plataformas en la nube como Azure ☁️ y Databricks 🔥. Mi objetivo es optimizar procesos a través del análisis de datos y ayudar a las empresas a tomar decisiones informadas.
+# 👋 ¡Hola! Soy Antonio
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+&+Data+Analyst;Construyendo+soluciones+escalables" alt="Typing SVG" />
+</div>
 
 ## 🛠️ Habilidades  
 Cuento con experiencia en manipulación, análisis y visualización de datos, utilizando las siguientes herramientas:
