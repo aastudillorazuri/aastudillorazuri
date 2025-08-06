@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Antonio
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+&+Data+Analyst;Construyendo+soluciones+escalables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E6E6FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+&+Data+Analyst;Construyendo+soluciones+escalables" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Habilidades  
